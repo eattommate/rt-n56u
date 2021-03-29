@@ -37,10 +37,10 @@
 
 #define DEF_WLAN_2G_CC		"CN"
 #define DEF_WLAN_5G_CC		"CN"
-#define DEF_WLAN_2G_SSID	BOARD_PID "_%s"
-#define DEF_WLAN_5G_SSID	BOARD_PID "_5G_%s"
-#define DEF_WLAN_2G_GSSID	BOARD_PID "_GUEST_%s"
-#define DEF_WLAN_5G_GSSID	BOARD_PID "_GUEST_5G_%s"
+#define DEF_WLAN_2G_SSID	"coolxiaomi_%s"
+#define DEF_WLAN_5G_SSID	"coolxiaomi_5G_%s"
+#define DEF_WLAN_2G_GSSID	"coolxiaomi_GUEST_%s"
+#define DEF_WLAN_5G_GSSID	"coolxiaomi_GUEST_5G_%s"
 #define DEF_WLAN_2G_PSK		"coolxiaomi"
 #define DEF_WLAN_5G_PSK		"coolxiaomi"
 
